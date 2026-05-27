@@ -259,8 +259,7 @@
               "RelativeToolTip": "SmartCyberViz\\Views\\Shared\\Error.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-27T11:18:18.888Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-27T11:18:18.888Z"
             },
             {
               "$type": "Document",
@@ -272,8 +271,7 @@
               "RelativeToolTip": "README.md",
               "ViewState": "AgIAAAgAAAAAAAAAAADwvxcAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2026-04-27T11:15:27.562Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-27T11:15:27.562Z"
             },
             {
               "$type": "Document",
@@ -285,8 +283,7 @@
               "RelativeToolTip": "SmartCyberViz\\Views\\Password\\Index.cshtml",
               "ViewState": "AgIAAMwAAAAAAAAAAADwv+4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-24T07:32:07.351Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-24T07:32:07.351Z"
             },
             {
               "$type": "Document",
@@ -298,8 +295,7 @@
               "RelativeToolTip": "SmartCyberViz\\Controllers\\PasswordController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAHEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T07:26:26.341Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-24T07:26:26.341Z"
             },
             {
               "$type": "Document",
@@ -311,8 +307,7 @@
               "RelativeToolTip": "SmartCyberViz\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-04-23T07:04:54.312Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-23T07:04:54.312Z"
             },
             {
               "$type": "Document",
@@ -324,8 +319,7 @@
               "RelativeToolTip": "SmartCyberViz\\Views\\ThreatFeed\\Index.cshtml",
               "ViewState": "AgIAAEUAAAAAAAAAAAAAAFUAAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-24T07:33:35.096Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-24T07:33:35.096Z"
             },
             {
               "$type": "Document",
@@ -337,8 +331,7 @@
               "RelativeToolTip": "SmartCyberViz\\Views\\ThreatAnalysis\\Index.cshtml",
               "ViewState": "AgIAAGgAAAAAAAAAAAAUwJwAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-24T07:31:07.556Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-24T07:31:07.556Z"
             },
             {
               "$type": "Document",
@@ -350,8 +343,7 @@
               "RelativeToolTip": "SmartCyberViz\\wwwroot\\css\\site.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-04-27T11:20:06.151Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-27T11:20:06.151Z"
             },
             {
               "$type": "Document",
@@ -363,8 +355,7 @@
               "RelativeToolTip": "SmartCyberViz\\Views\\Account\\AccessDenied.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-27T11:19:34.69Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-27T11:19:34.69Z"
             },
             {
               "$type": "Document",
@@ -376,8 +367,7 @@
               "RelativeToolTip": "SmartCyberViz\\Controllers\\ThreatFeedController.cs",
               "ViewState": "AgIAABMAAAAAAAAAAADwvzgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T07:26:51.749Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-24T07:26:51.749Z"
             },
             {
               "$type": "Document",
@@ -389,8 +379,7 @@
               "RelativeToolTip": "SmartCyberViz\\Controllers\\AboutController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T07:27:59.217Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-24T07:27:59.217Z"
             },
             {
               "$type": "Document",
@@ -402,8 +391,7 @@
               "RelativeToolTip": "SmartCyberViz\\Views\\About\\Index.cshtml",
               "ViewState": "AgIAAOoAAAAAAAAAAAAUwPEAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-24T07:34:05.288Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-24T07:34:05.288Z"
             },
             {
               "$type": "Document",
@@ -415,8 +403,7 @@
               "RelativeToolTip": "SmartCyberViz\\Views\\Phishing\\Index.cshtml",
               "ViewState": "AgIAALoAAAAAAAAAAADwv98AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-24T07:31:46.574Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-24T07:31:46.574Z"
             },
             {
               "$type": "Document",
@@ -428,8 +415,7 @@
               "RelativeToolTip": "SmartCyberViz\\Controllers\\PhishingController.cs",
               "ViewState": "AgIAACUAAAAAAAAAAADwv0oAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T07:26:02.892Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-24T07:26:02.892Z"
             },
             {
               "$type": "Document",
@@ -441,8 +427,7 @@
               "RelativeToolTip": "SmartCyberViz\\Program.cs",
               "ViewState": "AgIAAEoAAAAAAAAAAAAUwFEAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-23T07:05:47.067Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-23T07:05:47.067Z"
             },
             {
               "$type": "Document",
@@ -454,8 +439,7 @@
               "RelativeToolTip": "SmartCyberViz\\Controllers\\ThreatAnalysisController.cs",
               "ViewState": "AgIAAEQAAAAAAAAAAAAAAGgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T07:25:35.988Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-24T07:25:35.988Z"
             },
             {
               "$type": "Document",
@@ -467,8 +451,7 @@
               "RelativeToolTip": "SmartCyberViz\\Views\\ThreatMap\\Index.cshtml",
               "ViewState": "AgIAAMoAAAAAAAAAAADwv+8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-24T07:30:28.146Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-24T07:30:28.146Z"
             },
             {
               "$type": "Document",
@@ -480,8 +463,7 @@
               "RelativeToolTip": "SmartCyberViz\\Controllers\\ThreatMapController.cs",
               "ViewState": "AgIAADEAAAAAAAAAAAAAwEcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T07:24:45.215Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-24T07:24:45.215Z"
             },
             {
               "$type": "Document",
@@ -493,8 +475,7 @@
               "RelativeToolTip": "SmartCyberViz\\Views\\Dashboard\\Index.cshtml",
               "ViewState": "AgIAANIAAAAAAAAAAADwv/cAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-24T07:23:55.33Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-24T07:23:55.33Z"
             },
             {
               "$type": "Document",
@@ -506,8 +487,7 @@
               "RelativeToolTip": "SmartCyberViz\\Controllers\\DashboardController.cs",
               "ViewState": "AgIAAB8AAAAAAAAAAADwvzsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T07:20:25.069Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-24T07:20:25.069Z"
             },
             {
               "$type": "Document",
@@ -519,8 +499,7 @@
               "RelativeToolTip": "SmartCyberViz\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAACIAAAAAAAAAAADwv2IAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-24T07:19:05.882Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-24T07:19:05.882Z"
             },
             {
               "$type": "Document",
@@ -532,8 +511,7 @@
               "RelativeToolTip": "SmartCyberViz\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAUwA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T07:13:09.024Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-24T07:13:09.024Z"
             },
             {
               "$type": "Document",
@@ -545,8 +523,7 @@
               "RelativeToolTip": "SmartCyberViz\\Views\\Account\\Register.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAFsAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-24T07:12:35.778Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-24T07:12:35.778Z"
             },
             {
               "$type": "Document",
@@ -558,8 +535,7 @@
               "RelativeToolTip": "SmartCyberViz\\Views\\Account\\Login.cshtml",
               "ViewState": "AgIAADwAAAAAAAAAAADwv0wAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-24T07:11:33.579Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-24T07:11:33.579Z"
             },
             {
               "$type": "Document",
@@ -571,8 +547,7 @@
               "RelativeToolTip": "SmartCyberViz\\Controllers\\AccountController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAGkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T07:09:35.878Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-24T07:09:35.878Z"
             },
             {
               "$type": "Document",
@@ -584,8 +559,7 @@
               "RelativeToolTip": "SmartCyberViz\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAJABAAAAAAAAAAAAAJYBAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-24T07:08:16.035Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-24T07:08:16.035Z"
             },
             {
               "$type": "Document",
@@ -597,8 +571,7 @@
               "RelativeToolTip": "SmartCyberViz\\ViewModels\\ThreatAnalysisViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T07:07:32.177Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-24T07:07:32.177Z"
             },
             {
               "$type": "Document",
@@ -610,8 +583,7 @@
               "RelativeToolTip": "SmartCyberViz\\ViewModels\\PasswordViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T07:07:01.669Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-24T07:07:01.669Z"
             },
             {
               "$type": "Document",
@@ -623,8 +595,7 @@
               "RelativeToolTip": "SmartCyberViz\\ViewModels\\PhishingViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T07:06:12.26Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-24T07:06:12.26Z"
             },
             {
               "$type": "Document",
@@ -636,8 +607,7 @@
               "RelativeToolTip": "SmartCyberViz\\ViewModels\\DashboardViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T07:05:36.928Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-24T07:05:36.928Z"
             },
             {
               "$type": "Document",
@@ -649,8 +619,7 @@
               "RelativeToolTip": "SmartCyberViz\\ViewModels\\RegisterViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T07:05:04.798Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-24T07:05:04.798Z"
             },
             {
               "$type": "Document",
@@ -662,8 +631,7 @@
               "RelativeToolTip": "SmartCyberViz\\ViewModels\\LoginViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T07:04:15.066Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-24T07:04:15.066Z"
             },
             {
               "$type": "Document",
@@ -675,8 +643,7 @@
               "RelativeToolTip": "SmartCyberViz\\Services\\IPStackService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T07:02:35.551Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-24T07:02:35.551Z"
             },
             {
               "$type": "Document",
@@ -688,8 +655,7 @@
               "RelativeToolTip": "SmartCyberViz\\Services\\HaveIBeenPwnedService.cs",
               "ViewState": "AgIAACIAAAAAAAAAAADwv0cAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T07:01:56.781Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-24T07:01:56.781Z"
             },
             {
               "$type": "Document",
@@ -701,8 +667,7 @@
               "RelativeToolTip": "SmartCyberViz\\Services\\VirusTotalService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T07:01:23.926Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-24T07:01:23.926Z"
             },
             {
               "$type": "Document",
@@ -714,8 +679,7 @@
               "RelativeToolTip": "SmartCyberViz\\Services\\AbuseIPService.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAwwDgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T07:00:12.413Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-24T07:00:12.413Z"
             },
             {
               "$type": "Document",
@@ -727,8 +691,7 @@
               "RelativeToolTip": "SmartCyberViz\\Services\\Interfaces\\IIPStackService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T06:58:58.554Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-24T06:58:58.554Z"
             },
             {
               "$type": "Document",
@@ -740,8 +703,7 @@
               "RelativeToolTip": "SmartCyberViz\\Services\\Interfaces\\IHaveIBeenPwnedService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T06:56:07.893Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-24T06:56:07.893Z"
             },
             {
               "$type": "Document",
@@ -753,8 +715,7 @@
               "RelativeToolTip": "SmartCyberViz\\Services\\Interfaces\\IVirusTotalService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T06:55:13.081Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-24T06:55:13.081Z"
             },
             {
               "$type": "Document",
@@ -766,8 +727,7 @@
               "RelativeToolTip": "SmartCyberViz\\Services\\Interfaces\\IAbuseIPService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T06:54:07.852Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-24T06:54:07.852Z"
             },
             {
               "$type": "Document",
@@ -779,8 +739,7 @@
               "RelativeToolTip": "SmartCyberViz\\Repositories\\PasswordCheckRepository.cs",
               "ViewState": "AgIAAEkAAAAAAAAAAAAIwE8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T06:50:24.35Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-24T06:50:24.35Z"
             },
             {
               "$type": "Document",
@@ -792,8 +751,7 @@
               "RelativeToolTip": "SmartCyberViz\\Repositories\\PhishingCheckRepository.cs",
               "ViewState": "AgIAADcAAAAAAAAAAAAwwFUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T06:49:34.053Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-24T06:49:34.053Z"
             },
             {
               "$type": "Document",
@@ -805,8 +763,7 @@
               "RelativeToolTip": "SmartCyberViz\\Repositories\\IPReportRepository.cs",
               "ViewState": "AgIAADAAAAAAAAAAAAAIwFAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T06:48:55.726Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-24T06:48:55.726Z"
             },
             {
               "$type": "Document",
@@ -818,8 +775,7 @@
               "RelativeToolTip": "SmartCyberViz\\Repositories\\ThreatLogRepository.cs",
               "ViewState": "AgIAAD0AAAAAAAAAAADwv2IAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T06:48:08.2Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-24T06:48:08.2Z"
             },
             {
               "$type": "Document",
@@ -831,8 +787,7 @@
               "RelativeToolTip": "SmartCyberViz\\Repositories\\Interfaces\\IPasswordCheckRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T06:47:27.585Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-24T06:47:27.585Z"
             },
             {
               "$type": "Document",
@@ -844,8 +799,7 @@
               "RelativeToolTip": "SmartCyberViz\\Repositories\\Interfaces\\IPhishingCheckRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T06:46:26.935Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-24T06:46:26.935Z"
             },
             {
               "$type": "Document",
@@ -857,8 +811,7 @@
               "RelativeToolTip": "SmartCyberViz\\Repositories\\Interfaces\\IIPReportRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T06:45:42.274Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-24T06:45:42.274Z"
             },
             {
               "$type": "Document",
@@ -870,8 +823,7 @@
               "RelativeToolTip": "SmartCyberViz\\Repositories\\Interfaces\\IThreatLogRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T06:44:47.55Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-24T06:44:47.55Z"
             },
             {
               "$type": "Document",
@@ -883,8 +835,7 @@
               "RelativeToolTip": "SmartCyberViz\\Migrations\\20260424064202_InitialCreate.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T06:42:03.106Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-24T06:42:03.106Z"
             },
             {
               "$type": "Document",
@@ -896,8 +847,7 @@
               "RelativeToolTip": "SmartCyberViz\\Data\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T06:36:02.536Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-24T06:36:02.536Z"
             },
             {
               "$type": "Document",
@@ -909,8 +859,7 @@
               "RelativeToolTip": "SmartCyberViz\\Models\\PasswordCheck.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T06:35:21.29Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-24T06:35:21.29Z"
             },
             {
               "$type": "Document",
@@ -922,8 +871,7 @@
               "RelativeToolTip": "SmartCyberViz\\Models\\PhishingCheck.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T06:34:31.195Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-24T06:34:31.195Z"
             },
             {
               "$type": "Document",
@@ -935,8 +883,7 @@
               "RelativeToolTip": "SmartCyberViz\\Models\\IPReport.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-23T07:09:06.035Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-23T07:09:06.035Z"
             },
             {
               "$type": "Document",
@@ -948,8 +895,7 @@
               "RelativeToolTip": "SmartCyberViz\\Models\\ThreatLog.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-23T07:08:31.76Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-23T07:08:31.76Z"
             },
             {
               "$type": "Document",
@@ -961,8 +907,7 @@
               "RelativeToolTip": "SmartCyberViz\\Models\\ApplicationUser.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-23T07:07:33.844Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-23T07:07:33.844Z"
             }
           ]
         }
